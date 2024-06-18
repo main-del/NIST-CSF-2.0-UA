@@ -4,13 +4,12 @@ This repository contains the translation of the NIST Cybersecurity Framework (CS
 
 ## Repository Contents
 
-- Original NIST CSF 2.0 text in English
-- Translation of NIST CSF 2.0 into Ukrainian in PDF and DOCX formats
+- Translation of NIST CSF 2.0 into Ukrainian in DOCX.
 - README.md with usage instructions
 
 ## Usage Instructions
 
-To use the translation, download the files from this repository and review the document in your preferred format (PDF or DOCX).
+To use the translation, download the files from this repository and review the document in DOCX.
 
 ## Authors and License
 
